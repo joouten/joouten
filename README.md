@@ -1,13 +1,17 @@
 ### Hi, I'm John.
 
-AI-native builder and a Tier 3 escalation engineer at Microsoft Premier Support.
+Applied AI builder and Tier 3 escalation engineer at Microsoft. I build governed, testable AI systems that turn expert support knowledge into repeatable diagnostic workflows.
 
-I've shipped a stock-tracking mobile app to Google Play and a Python AI agent that triages enterprise Azure escalations, both built with AI-assisted development. Now targeting **Forward Deployed AI Engineer** and **Customer Success Manager** roles at Anthropic and Google.
+#### Current work: CaseIQ (Microsoft internal)
+I'm building CaseIQ, an AI-assisted system that investigates complex Azure Backup, Migrate and Site Recovery support cases.
+- Specialized agents and diagnostic skills that pull in case history, service telemetry, incident data and Microsoft documentation
+- Behavioral evaluations that test how the system diagnoses, not just what it writes
+- Evidence gates that block unsupported conclusions
+- Privacy, authentication and least-privilege controls for customer data
+- Contributor training so other engineers can build, test and maintain their own AI skills
 
-**Stack:** Python · Anthropic Claude API · React Native · Expo · Supabase · TypeScript
+41 pull requests opened and 36 merged since May 2026, tested against real support investigations. The code lives in Microsoft's private repos, so the projects below are my personal builds.
 
-**Certifications:** AI-900 · CCA Foundations (in progress)
+**Stack:** Python · Claude API · GitHub Copilot CLI · React Native · Expo · Supabase · TypeScript
 
 **LinkedIn:** [johnouten-ai-wizard](https://www.linkedin.com/in/johnouten-ai-wizard/)
-
-Pinned repos below.

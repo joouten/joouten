@@ -1,6 +1,6 @@
 ### Hi, I'm John.
 
-Applied AI builder and Tier 3 escalation engineer at Microsoft. I build governed, testable AI systems that turn expert support knowledge into repeatable diagnostic workflows.
+AI builder and Tier 3 escalation engineer at Microsoft. I build governed, testable AI systems that turn expert support knowledge into repeatable diagnostic workflows.
 
 #### Current work: CaseIQ (Microsoft internal)
 I'm building CaseIQ, an AI-assisted system that investigates complex Azure Backup, Migrate and Site Recovery support cases.
